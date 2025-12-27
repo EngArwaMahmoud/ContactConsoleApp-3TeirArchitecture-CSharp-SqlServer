@@ -1,0 +1,13 @@
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.exe.config
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.exe
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.AssemblyReference.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.CoreCompileInputs.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\Contacts.BFD23B43.Up2Date
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.exe
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.exe.config

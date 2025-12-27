@@ -1,0 +1,23 @@
+# Build Folders
+/bin/
+/obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code files
+.vscode/
+.vs/
+
+# SQL Server local DB
+*.mdf
+*.ldf
+
+# NuGet packages
+/packages/
+
+# Other temp files
+*.log

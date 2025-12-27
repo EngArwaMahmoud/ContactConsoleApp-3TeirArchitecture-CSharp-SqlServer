@@ -1,0 +1,9 @@
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb

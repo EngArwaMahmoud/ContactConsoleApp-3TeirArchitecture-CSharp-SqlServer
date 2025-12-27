@@ -1,0 +1,6 @@
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+E:\C#\ContactsConsoleApp-PresentationLayer\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
